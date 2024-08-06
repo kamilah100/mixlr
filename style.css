@@ -1,0 +1,15 @@
+*{
+font-family: sans-serif;
+}
+.dash{
+    text-align: center;
+    margin-top: 50px;
+}
+.dash1{
+    background-color: aliceblue;
+    display: flex;
+    width: 900px;
+    align-items: center;
+    padding-left: 700px;
+    /* padding: 350px; */
+}  
